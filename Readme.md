@@ -73,7 +73,7 @@ BVEスレやWiki・Twitter等に公開を報告していただけると中の人
   
 ------------------------------------------  
 ・作ってしまった人  
-TomyRailway/神風神雲(Twitter:@Kamikaze_6722/@MizuAki_BVE)  
+TomyRailway/神風神雲(Twitter:@Kamikaze_gumo/@MizuAki_BVE)  
 最近はずっとBVEやってますが普段は鉄道・東方・艦これなど色々とやってる人です。  
   
 ご連絡はTwitter、もしくはメール（tomykeio6722あっとまーくgmail.com)までどうぞ。  

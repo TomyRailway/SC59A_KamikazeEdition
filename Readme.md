@@ -29,7 +29,7 @@ WindowsVista(NT6.0)以前の環境をお使いの方は早くWindows11買って�
 
 ### [BveEX(旧AtsEX)](https://github.com/automatic9045/BveEX) (PolyForm Noncommercial License 1.00)
 
-Copyright (c) 2022～2024 automatic9045
+Copyright (c) 2022-2025 automatic9045
 
 ------------------------------------------
 ・仕様について  
